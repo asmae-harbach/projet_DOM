@@ -1,0 +1,22 @@
+.container{
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 30%;
+    height: 550px;
+    padding: 20px;
+    text-align: center;
+}
+#color-box{
+    height: 80%;
+    width: 100%;
+    background-color: black;
+}
+#change-color-btn{
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: red;
+    padding: 15px;
+    border-radius: 15px;
+    border: 0;
+    color: white;
+}
